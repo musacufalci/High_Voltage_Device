@@ -1,9 +1,9 @@
 # High Voltage Device
 
-CİHAZ APARAT :  YÜKSEK GERİLİM CİHAZI (MİKROİŞLEMCİLİ)
+CİHAZ APARAT :  YÜKSEK GERİLİM CİHAZI ( İŞLEMCİ VEYA İŞLEMCİSİZ)
 
-1)KULLANIM YERİ : Elektriksel delinme dayanımı testlerinde kullanılır. 
-2)ÖZELLİKLERİ : 
+1) KULLANIM YERİ : Elektriksel delinme dayanımı testlerinde kullanılır. 
+2) ÖZELLİKLERİ : 
 - Metal gövde 
 - Zaman ayarlı 
 - 220-230 VAC topraklı 
