@@ -12,4 +12,6 @@ CİHAZ APARAT :  YÜKSEK GERİLİM CİHAZI (MİKROİŞLEMCİLİ)
 3) CİHAZLA VERİLENLER : 
 4) İSTEĞE BAĞLI OLANLAR:
 
--Farklı güçlerde ve çıkış gerilimlerinde yapılabilir...
+- Farklı güçlerde ve çıkış gerilimlerinde yapılabilir...
+
+Design by: https://www.linkedin.com/in/musacufalci/
