@@ -15,7 +15,7 @@ DEVICE APPARATUS: HIGH VOLTAGE DEVICE ( WITH OR WITHOUT PROCESSOR)
      OPTIONAL:
 
      It can be made in different powers and output voltages...
-     
+
 ____________________________________________________________________________________________________________________________________________________________________     
 
 CİHAZ APARAT :  YÜKSEK GERİLİM CİHAZI ( İŞLEMCİ VEYA İŞLEMCİSİZ)
